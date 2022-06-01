@@ -38,3 +38,6 @@ function teste(){
 function teste2(){
   console.log("teste 2");
 }
+function teste3(){
+	alert("Capital code");
+}
